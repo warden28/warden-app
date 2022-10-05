@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/warden-app/static/css/main.644673ff.css",
+    "main.js": "/warden-app/static/js/main.e4f95d7b.js",
+    "static/media/vcrTelkomsel.jpg": "/warden-app/static/media/vcrTelkomsel.98e4f6938c3bd9d876e9.jpg",
+    "static/media/aigo.jpg": "/warden-app/static/media/aigo.0eff68bd31c647c96e19.jpg",
+    "static/media/aigo5.jpg": "/warden-app/static/media/aigo5.f3a526548e5527d1605f.jpg",
+    "static/media/vcrIndosat.jpg": "/warden-app/static/media/vcrIndosat.72c314c38d6c0dbb1d44.jpg",
+    "static/media/vcrSmartfren.jpg": "/warden-app/static/media/vcrSmartfren.53456c2409e249b6c6c5.jpg",
+    "static/media/vcrxl.jpg": "/warden-app/static/media/vcrxl.f531611f4a05cf8c7782.jpg",
+    "static/media/vcr6gb.jpg": "/warden-app/static/media/vcr6gb.78780386f1287fa0d3ca.jpg",
+    "static/media/3.jpg": "/warden-app/static/media/3.cb74a56cb2ff72181c48.jpg",
+    "static/media/WhatsApp_icon.png": "/warden-app/static/media/WhatsApp_icon.31d4b1d27126bcc1f665.png",
+    "static/media/imgvoucherAxis.png": "/warden-app/static/media/imgvoucherAxis.18af8b56d3589ae53fe0.png",
+    "static/media/imgvoucherIndosat.png": "/warden-app/static/media/imgvoucherIndosat.df3a14fe49d550362695.png",
+    "static/media/imgvoucherXL.jpg": "/warden-app/static/media/imgvoucherXL.fef90ec5dbc75dffc70d.jpg",
+    "static/media/imgvoucherTelkomsel.jpg": "/warden-app/static/media/imgvoucherTelkomsel.3df05ac24fb0bb4dd3ba.jpg",
+    "static/media/imgvoucherThree.jpg": "/warden-app/static/media/imgvoucherThree.713cf1e0a680911badf6.jpg",
+    "static/media/imgvoucherSmartfren.jpg": "/warden-app/static/media/imgvoucherSmartfren.c48a952567b59a7e49a6.jpg",
+    "static/media/imgBpjs.jpg": "/warden-app/static/media/imgBpjs.36177a48e6c4da9cc1d5.jpg",
+    "static/media/imgPln.jpg": "/warden-app/static/media/imgPln.f4354faa18dd114a2aa2.jpg",
+    "static/media/imgPdam.jpg": "/warden-app/static/media/imgPdam.81227d4bf85b012f4e17.jpg",
+    "static/media/imgTelkom.jpg": "/warden-app/static/media/imgTelkom.8d4b4a031e3e67ee2884.jpg",
+    "static/media/imgIndosat.jpg": "/warden-app/static/media/imgIndosat.7d050dab375104f41dbf.jpg",
+    "static/media/imgTelkomsel.jpg": "/warden-app/static/media/imgTelkomsel.e13fb86b4ee57c9750d2.jpg",
+    "static/media/imgThree.jpg": "/warden-app/static/media/imgThree.6ef07fa6ef7aa0654577.jpg",
+    "static/media/imgGojek.jpg": "/warden-app/static/media/imgGojek.c4fa2cc172e294fafab9.jpg",
+    "static/media/imgXL.jpg": "/warden-app/static/media/imgXL.cbc6dbaa5f4c49970c04.jpg",
+    "static/media/imgDana.jpg": "/warden-app/static/media/imgDana.719617a3899fccfc9ffc.jpg",
+    "static/media/imgTelponsms.jpg": "/warden-app/static/media/imgTelponsms.7cf7ba8c0fbc896d6b1e.jpg",
+    "static/media/imgGrab.jpg": "/warden-app/static/media/imgGrab.5986f2b4170f90b50085.jpg",
+    "static/media/imgOvo.jpg": "/warden-app/static/media/imgOvo.32c43366be13c0af3cca.jpg",
+    "index.html": "/warden-app/index.html",
+    "main.644673ff.css.map": "/warden-app/static/css/main.644673ff.css.map",
+    "main.e4f95d7b.js.map": "/warden-app/static/js/main.e4f95d7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.644673ff.css",
+    "static/js/main.e4f95d7b.js"
+  ]
+}
