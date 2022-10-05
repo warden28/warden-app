@@ -1,0 +1,13 @@
+.nama {
+    border-radius: 0px 0px 10px 0px;
+    max-width: 176px;
+}
+
+@media (max-width: 400px) {
+    .space {
+        margin-left: -14px;
+    }
+    .space2{
+        margin-left: -5px;
+    }
+}

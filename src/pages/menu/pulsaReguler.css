@@ -1,0 +1,54 @@
+@media (min-width: 320px) {
+    .produk {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .produk {
+        width: 100px;
+        height: 100px;
+    }
+
+    .title {
+        font-size: 28px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .produk {
+        width: 120px;
+        height: 120px;
+    }
+
+    .title {
+        font-size: 30px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .produk {
+        width: 180px;
+        height: 180px;
+    }
+
+    .title {
+        font-size: 30px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .produk {
+        width: 200px;
+        height: 200px;
+    }
+
+    .title {
+        font-size: 32px;
+    }
+}
